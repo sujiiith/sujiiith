@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sujiiith
-- 👀 I’m interested in Innovation & Technology
+- 👀 I’m interested in Core DNA of Innovation & Technology
 - 🌱 I’m currently learning GITHUB
 - 💞️ I’m looking to collaborate on Music
-- 📫 How to reach me :2244
+- 📫 Cheers :)
 
 <!---
 sujiiith/sujiiith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
