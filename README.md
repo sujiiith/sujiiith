@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujiiith
 - 👀 I’m interested in Core DNA of Innovation & Technology
-- 🌱 I’m currently learning GITHUB
+- 🌱 I’m currently making Sites Reliable 
 - 💞️ I’m looking to collaborate on Music
 - 📫 Cheers :)
 
